@@ -1,0 +1,3406 @@
+{
+    "Truth": [
+        {
+            "id": 2,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQu\u00e9 actor / actriz prefieres?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 3,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfQuien es tu amor secreto?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 4,
+            "type": "Truth",
+            "level": 0,
+            "summary": "\u00bfQu\u00e9 es lo m\u00e1s repugnante que has hecho en tu vida?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 6,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfCu\u00e1l es tu mayor miedo en una relaci\u00f3n?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 7,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l fue tu primera cita m\u00e1s divertida?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 8,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfCu\u00e1l es tu mayor disgusto en una pareja?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 9,
+            "type": "Truth",
+            "level": 0,
+            "summary": "\u00bfCu\u00e1l es tu h\u00e1bito m\u00e1s extra\u00f1o?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 10,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfCu\u00e1ntos hijos te gustar\u00eda tener?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 11,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfCu\u00e1l es el primer d\u00eda perfecto?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 12,
+            "type": "Truth",
+            "level": 0,
+            "summary": "\u00bfCu\u00e1l es un hecho vergonzoso que deber\u00eda saber sobre ti?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 13,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l era su apodo de la infancia?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 14,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCual es tu pel\u00edcula favorita?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 15,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfDescribe tu peor cita?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 16,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Si no existiera el dinero; que harias con tu vida",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 17,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu comida favorita?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 18,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1les son tus tres colores favoritos? \u00bfy por qu\u00e9?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 19,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Cu\u00e1l es el trabajo de tus sue\u00f1os?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 20,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Si estuvo atrapado en una isla durante 3 d\u00edas; que te llevarias contigo",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 21,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQui\u00e9n es tu persona favorita y por qu\u00e9?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 22,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfPrefieres Apple o Android?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 23,
+            "type": "Truth",
+            "level": 1,
+            "summary": "\u00bfC\u00f3mo se pone el papel higi\u00e9nico en el rollo?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 24,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu mejor talento?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 25,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfCrees en el amor a primera vista?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 26,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfCrees en el amor?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 27,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfCu\u00e1l es la boda de tus sue\u00f1os?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 28,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfAlguna vez considerar\u00eda ser nudista?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 29,
+            "type": "Truth",
+            "level": 1,
+            "summary": "\u00bfQu\u00e9 te parecen los trozos finales de una barra de pan?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 30,
+            "type": "Truth",
+            "level": 1,
+            "summary": "\u00bfPuedes tocarte la nariz con la lengua?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 31,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Si pudieras eliminar algo malo del mundo; \u00bfQu\u00e9 podr\u00eda ser?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 32,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu placer culpable?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 33,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es la comida m\u00e1s ex\u00f3tica que has comido?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 34,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfEn qu\u00e9 pa\u00eds le gustar\u00eda vivir si tuviera la oportunidad?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 35,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Si pudieras cambiar una cosa en tu cuerpo; \u00bfQu\u00e9 podr\u00eda ser?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 36,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQu\u00e9 es lo que m\u00e1s sue\u00f1as despierto?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 37,
+            "type": "Truth",
+            "level": 0,
+            "summary": "Describe el sue\u00f1o m\u00e1s extra\u00f1o que hayas tenido.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 38,
+            "type": "Truth",
+            "level": 1,
+            "summary": "\u00bfPuede usted lamerse el codo?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 39,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu estaci\u00f3n del a\u00f1o favorita?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 40,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfPodr\u00edas pasar una semana sin comida chatarra?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 41,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfComo estuvo tu primer beso?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 42,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfDescribe tu peor beso?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 43,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfTe gusta hacer ejercicio?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 84,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfQu\u00e9 tan flexible eres?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 87,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu color favorito?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 88,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Cu\u00e1l es tu animal favorito?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 89,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu comida favorita?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 90,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu materia favorita de la escuela?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 91,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Qui\u00e9n es tu profesor favorito; \u00bfy por qu\u00e9?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 92,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCual es tu cancion favorita?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 93,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQui\u00e9n es tu personaje favorito de Disney?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 94,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu programa de TV favorito?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 95,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfC\u00f3mo se llama tu mascota?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 96,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es su n\u00famero de zapato?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 97,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCual es tu pel\u00edcula favorita?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 98,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQuien es tu cantante favorito?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 99,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Te gustan los bichos?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 100,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu verdura favorita?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 101,
+            "type": "Truth",
+            "level": 2,
+            "summary": "15. \u00bfPreferir\u00edas ser pollo o pato?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 102,
+            "type": "Truth",
+            "level": 2,
+            "summary": "16. \u00bfPreferir\u00edas ser un cerdo o una serpiente?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 103,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu juego favorito para jugar?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 104,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfTe gusta hacer las tareas del hogar?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 105,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQu\u00e9 es lo que m\u00e1s te gusta hacer los fines de semana?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 106,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfSabes como bailar?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 107,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfSabes c\u00f3mo cocinar?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 108,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfPuedes hablar un idioma diferente?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 109,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQu\u00e9 es lo que m\u00e1s te gusta hacer despu\u00e9s de la escuela?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 110,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfPracticas alg\u00fan deporte?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 111,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu deporte favorito?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 112,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfA qu\u00e9 animal le tienes miedo?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 113,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfTienes miedo de los monstruos?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 114,
+            "type": "Truth",
+            "level": 2,
+            "summary": "tienes un amigo imaginario?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 115,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQui\u00e9n es tu mejor amigo?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 116,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1ndo aprendiste a andar en bicicleta?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 117,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfPuedes usar un palo para saltar?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 118,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Que quieres ser cuando seas grande?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 119,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu deporte favorito en los Juegos Ol\u00edmpicos?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 120,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es la capital del estado en el que vives?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 121,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Si pudieras ir a cualquier parte del mundo; \u00bfA d\u00f3nde ir\u00edas?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 122,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Si tienes un mill\u00f3n de d\u00f3lares; \u00bfQu\u00e9 har\u00edas con todo tu dinero?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 123,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Si pudieras te\u00f1ir tu cabello de cualquier color; que color elegirias",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 124,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1ntos hermanos y hermanas tiene usted?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 125,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Si pudieras ser cualquier animal; cual serias tu",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 126,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu lugar favorito para salir a comer?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 167,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCon qu\u00e9 gente te has acostado en el campus?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 168,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu GPA real?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 169,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu fraternidad menos favorita en el campus?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 170,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQu\u00e9 hiciste en tu primera noche de primer a\u00f1o?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 171,
+            "type": "Truth",
+            "level": 1,
+            "summary": "\u00bfAlguna vez te has desmayado por beber demasiado?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 172,
+            "type": "Truth",
+            "level": 0,
+            "summary": "\u00bfQu\u00e9 es la cosa m\u00e1s loca que has hecho mientras est\u00e1s borracho?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 173,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQui\u00e9n es el mejor compa\u00f1ero de cuarto que has tenido?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 174,
+            "type": "Truth",
+            "level": 1,
+            "summary": "\u00bfQu\u00e9 es lo m\u00e1s molesto que ha hecho tu compa\u00f1ero de cuarto?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 175,
+            "type": "Truth",
+            "level": 1,
+            "summary": "\u00bfFumaba o beb\u00eda antes de la universidad? \u00bfO empezaste cuando llegaste aqu\u00ed?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 176,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfDejar\u00edas la escuela si ganaras la loter\u00eda?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 177,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es la mejor fiesta a la que has ido?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 178,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1ntas fiestas has hecho en tu casa?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 179,
+            "type": "Truth",
+            "level": 1,
+            "summary": "\u00bfCu\u00e1l es la mayor cantidad de inyecciones que ha realizado en una noche?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 180,
+            "type": "Truth",
+            "level": 0,
+            "summary": "\u00bfAlguna vez has vomitado en el coche de alguien?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 181,
+            "type": "Truth",
+            "level": 0,
+            "summary": "\u00bfAlguna vez has mojado la cama por estar demasiado borracho?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 182,
+            "type": "Truth",
+            "level": 1,
+            "summary": "\u00bfCu\u00e1nto tiempo has pasado sin dormir?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 183,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1ntas veces has faltado a clases sin motivo?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 184,
+            "type": "Truth",
+            "level": 1,
+            "summary": "\u00bfAlguna vez ha contra\u00eddo una ETS?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 185,
+            "type": "Truth",
+            "level": 1,
+            "summary": "\u00bfAlguna vez te has despertado con un extra\u00f1o en tu cama?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 186,
+            "type": "Truth",
+            "level": 1,
+            "summary": "\u00bfQu\u00e9 es lo m\u00e1s temprano que ha comenzado a beber en el d\u00eda?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 187,
+            "type": "Truth",
+            "level": 1,
+            "summary": "\u00bfAlguna vez gast\u00f3 el dinero de sus padres en alcohol?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 188,
+            "type": "Truth",
+            "level": 1,
+            "summary": "\u00bfCon cu\u00e1ntos estudiantes de primer a\u00f1o te has acostado?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 189,
+            "type": "Truth",
+            "level": 1,
+            "summary": "\u00bfAlguna vez le has quitado dinero a un estudiante de primer a\u00f1o?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 190,
+            "type": "Truth",
+            "level": 1,
+            "summary": "\u00bfAlguna vez les has mentido a tus padres sobre si estabas en clases o no?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 191,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfAlguna vez le has quitado dinero a tu compa\u00f1ero de cuarto?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 192,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQu\u00e9 es lo m\u00e1s molesto que hace tu compa\u00f1ero de cuarto?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 193,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfHas estado en alguna pelea mientras estabas en la escuela?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 194,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfAlguna vez alguien te ha escrito un art\u00edculo?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 223,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQu\u00e9 es lo m\u00e1s molesto que hace tu mam\u00e1?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 224,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQu\u00e9 es lo m\u00e1s molesto que hace tu pap\u00e1?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 225,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfAlguna vez has metido a alguien en la casa?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 226,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1ntas veces te has escapado de la casa?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 227,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es el mejor plato que prepara tu mam\u00e1 para la cena?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 228,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Si pudiera cambiar alguna de las reglas de la casa; \u00bfQu\u00e9 podr\u00eda ser?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 229,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfPrefieres ser un caballo o una vaca?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 230,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQu\u00e9 es lo m\u00e1s divertido que han dicho tus abuelos?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 231,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Si pudiera deshacerse de una tarea dom\u00e9stica; \u00bfQu\u00e9 podr\u00eda ser?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 232,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu caricatura favorita de tu generaci\u00f3n?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 233,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu canci\u00f3n favorita de la infancia?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 234,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu juego de mesa favorito para jugar con tu familia?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 235,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Si pudieras poner a una persona de tu familia en mudo por un d\u00eda; \u00bfQui\u00e9n podr\u00eda ser?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 236,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfA qu\u00e9 edad aprendiste a andar en bicicleta?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 237,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfSabes nadar?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 238,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Describe la casa de tus sue\u00f1os",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 239,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es el sue\u00f1o m\u00e1s divertido que has tenido?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 240,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfAlguna vez ha so\u00f1ado con uno de sus parientes?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 241,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQui\u00e9n es tu esposo o esposa famoso?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 242,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQui\u00e9n te ense\u00f1\u00f3 a atarte los zapatos?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 243,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es el tiempo m\u00e1s largo que ha pasado sin ducharse?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 244,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfAlguna vez has usado la misma ropa durante m\u00e1s de tres d\u00edas?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 245,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu fiesta favorita y por qu\u00e9?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 246,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Si pudieras ser cualquier dinosaurio; cual seria",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 247,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1nto tiempo podr\u00edas sin comer tu comida favorita?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 248,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQui\u00e9n de tu familia cuenta los chistes m\u00e1s cursis?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 249,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfPrefieres ser un abejorro o una babosa?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 250,
+            "type": "Truth",
+            "level": 0,
+            "summary": "\u00bfHas comido alguna vez un gusano?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 251,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfAlguna vez te has metido la nariz cuando pensabas que nadie estaba mirando?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 252,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Si pudieras ser un s\u00faper villano; quien serias tu",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 283,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfQui\u00e9n es tu maestro m\u00e1s guapo que has tenido?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 284,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfHa hecho trampa alguna vez en alguna prueba?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 285,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfQui\u00e9n es tu crush en la escuela?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 286,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQui\u00e9n es la persona m\u00e1s molesta que conoces?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 287,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfAlguna vez le has gastado una broma a tu profesor?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 288,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfAlguna vez les minti\u00f3 a sus padres sobre lo que estaban haciendo despu\u00e9s de la escuela?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 289,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfAlguna vez ha culpado a uno de sus hermanos por algo que ha hecho?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 290,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfA qu\u00e9 universidad planeas ir?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 291,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfTodav\u00eda eres virgen?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 292,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfCu\u00e1ntos novios (o novias) has tenido?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 293,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfAlguna vez te han besado? Si es as\u00ed; quien fue tu mejor beso",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 294,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1les son las cosas que m\u00e1s te irritan?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 295,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1les son las mejores vacaciones en las que ha estado?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 296,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfAlguna vez le has contado a uno de los secretos de tu mejor amigo? incluso si dijeras que no lo har\u00edas?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 297,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfAlguna vez has estado enamorado de alguien con quien tu mejor amigo ha salido?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 298,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQu\u00e9 es lo m\u00e1s molesto que ha hecho uno de tus hermanos?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 299,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Tienes trabajo? Si es as\u00ed; \u00bfQu\u00e9 es lo que m\u00e1s te gusta de \u00e9l?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 300,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Si fueras multimillonario; \u00bfQu\u00e9 pasar\u00edas haciendo tu tiempo?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 301,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es el tiempo m\u00e1s largo que ha estado castigado?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 302,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es el tiempo m\u00e1s largo que cree que podr\u00eda pasar sin su tel\u00e9fono celular?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 303,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQu\u00e9 es lo m\u00e1s caro que tienes?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 304,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Si tuvieras la opci\u00f3n de vivir solo ahora mismo; \u00bflo harias?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 305,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfTe imaginas casarte con el ni\u00f1o m\u00e1s espeluznante de tu escuela alg\u00fan d\u00eda?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 306,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfAlguna vez entrar\u00edas en un sitio web de citas?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 307,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfAlguna vez has visto una pel\u00edcula para adultos sin que tus padres lo supieran?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 308,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Si pudiera ser due\u00f1o de su propio negocio alg\u00fan d\u00eda; \u00bfQu\u00e9 podr\u00eda ser?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 309,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu tipo de ropa favorita?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 310,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCon qu\u00e9 celebridad est\u00e1s obsesionado?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 311,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es el video de youtube m\u00e1s divertido que has visto?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 312,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQui\u00e9n es el peor maestro que has tenido? \u00bfPor qu\u00e9?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 313,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu equipo deportivo favorito?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 314,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQu\u00e9 es la cosa m\u00e1s loca que has hecho sin que tus padres lo sepan?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 315,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQu\u00e9 har\u00edas si tus padres te dejaran la casa una semana entera?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 316,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu canci\u00f3n favorita que sale ahora mismo?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 317,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfPodr\u00edas pasar dos meses sin hablar con tus amigos?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 351,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfCu\u00e1l es tu parte favorita de mi cuerpo?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 352,
+            "type": "Truth",
+            "level": 0,
+            "summary": "\u00bfCu\u00e1nto tiempo llevas sin ducharte?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 353,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQu\u00e9 no quieres que te pregunte nadie de este grupo? (\u00a1Aseg\u00farese de tenerlo en cuenta para futuras rondas!)",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 354,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfAlguna vez has dicho una mentira durante un juego de Verdad o Reto? \u00bfQu\u00e9 fue y por qu\u00e9?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 355,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfAlguna vez has estado enamorado de alguien aqu\u00ed?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 356,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Alguna vez has robado algo?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 357,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu pesadilla m\u00e1s aterradora?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 358,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l crees que es tu mayor defecto f\u00edsico?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 359,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfAlguna vez te has ba\u00f1ado flaco?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 360,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQu\u00e9 tipo de pijama usas para dormir?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 361,
+            "type": "Truth",
+            "level": 1,
+            "summary": "\u00bfQu\u00e9 es lo m\u00e1s tonto que has hecho en un desaf\u00edo?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 362,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfDe que color es tu ropa interior?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 363,
+            "type": "Truth",
+            "level": 0,
+            "summary": "\u00bfHas orinado alguna vez en la piscina?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 364,
+            "type": "Truth",
+            "level": 0,
+            "summary": "\u00bfD\u00f3nde est\u00e1 el lugar m\u00e1s extra\u00f1o en el que has usado el ba\u00f1o?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 365,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfTienes miedo de morir? \u00bfPor qu\u00e9?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 366,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu mayor miedo?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 367,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQu\u00e9 pas\u00f3 en el peor d\u00eda de tu vida?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 368,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfAlguna vez te has subido a un \u00e1rbol?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 369,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfHa cantado y bailado alguna vez en la tienda de comestibles?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 370,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Si pudieras ser un superh\u00e9roe; cual seria tu poder?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 371,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQu\u00e9 har\u00edas si fueras invisible por un d\u00eda?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 372,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Si tu vida se convirtiera en una pel\u00edcula, \u00bfqui\u00e9n te interpretar\u00eda?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 373,
+            "type": "Truth",
+            "level": 2,
+            "summary": "cual es la cosa que mas te molesta?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 374,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu talento especial?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 375,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es la mejor comida que has comido?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 376,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1l es tu pel\u00edcula favorita de Disney y por qu\u00e9?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 377,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQu\u00e9 har\u00edas con un mill\u00f3n de d\u00f3lares si alguna vez ganaras la loter\u00eda?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 378,
+            "type": "Truth",
+            "level": 3,
+            "summary": "Qui\u00e9n fue tu primer amor; \u00bfO qui\u00e9n es tu amor actual?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 379,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfQu\u00e9 edad ten\u00edas cuando te besaste por primera vez?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 380,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfQu\u00e9 har\u00edas si tu novio / novia actual terminara las cosas ahora mismo?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 381,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfAlguna vez has enga\u00f1ado a un novio / a?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 382,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfAlguna vez te ha enga\u00f1ado un novio / a?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 383,
+            "type": "Truth",
+            "level": 3,
+            "summary": "Si pudieras tener una cita con alguien en la habitaci\u00f3n, \u00bfqui\u00e9n ser\u00eda?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 384,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfCu\u00e1l es el momento m\u00e1s inc\u00f3modo que has tenido en una cita?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 385,
+            "type": "Truth",
+            "level": 3,
+            "summary": "Si pudiera besar a una celebridad sin afectar su relaci\u00f3n actual; \u00bfQui\u00e9n podr\u00eda ser?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 386,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfQu\u00e9 har\u00edas en la primera cita perfecta?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 387,
+            "type": "Truth",
+            "level": 3,
+            "summary": "De todas las personas que conoces; quien tiene los ojos mas bonitos?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 388,
+            "type": "Truth",
+            "level": 3,
+            "summary": "Si pudieras casarte con un maestro en la escuela; \u00bfA qui\u00e9n elegir\u00edas y por qu\u00e9?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 389,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfCu\u00e1les fueron sus primeras impresiones de m\u00ed (la persona que hizo la pregunta)?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 390,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfQu\u00e9 rasgos de personalidad te llevar\u00edan a terminar una amistad?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 391,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfIr\u00edas a espaldas de un amigo con un flechazo?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 392,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfAlguna vez le has mentido a tu mejor amigo?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 393,
+            "type": "Truth",
+            "level": 3,
+            "summary": "\u00bfAlguna vez estafar\u00edas el peri\u00f3dico de un amigo?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 394,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1ntos mejores amigos has tenido durante tu vida?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 395,
+            "type": "Truth",
+            "level": 2,
+            "summary": "Si estuvieras atrapado en una isla desierta, \u00bfqu\u00e9 amigo querr\u00edas contigo?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 396,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQu\u00e9 persona de aqu\u00ed sabe algo sobre ti que no querr\u00edas que se revelara?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 397,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfCu\u00e1les son las tres cualidades que cree que son m\u00e1s importantes en un amigo?",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 398,
+            "type": "Truth",
+            "level": 2,
+            "summary": "\u00bfQu\u00e9 te har\u00eda mentir por tu amigo?",
+            "time": "",
+            "turns": ""
+        }
+    ],
+    "Dare": [
+        {
+            "id": 0,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Te reto a ponerte de pie por 2 turnos",
+            "time": "",
+            "turns": 2
+        },
+        {
+            "id": 1,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Te reto a hacer 10 flexiones con una mano en menos de un minuto",
+            "time": 60,
+            "turns": ""
+        },
+        {
+            "id": 5,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Te reto a hacer una parada de cabeza durante 2 minutos",
+            "time": 120,
+            "turns": ""
+        },
+        {
+            "id": 44,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Haz una impresi\u00f3n de tu celebridad favorita",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 45,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Cierra los ojos y env\u00eda un mensaje de texto a ciegas a una persona al azar",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 46,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Ve por una escoba y haz tu mejor tango",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 47,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Regale una rutina de comedia stand-up de 3 minutos",
+            "time": 180,
+            "turns": ""
+        },
+        {
+            "id": 48,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Break dance",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 49,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Invente una historia sobre el art\u00edculo a su derecha",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 50,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Canta el alfabeto sin mover la boca",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 51,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Haz tu mejor impresi\u00f3n de presidente",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 52,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Grita la primera palabra que te viene a la mente ahora mismo",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 53,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Llame a la pizzer\u00eda y pida 300 pizzas de sardina",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 54,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Golpea tu pecho y act\u00faa como un gorila durante el siguiente minuto",
+            "time": 60,
+            "turns": ""
+        },
+        {
+            "id": 55,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Canta todo lo que dices durante los pr\u00f3ximos 10 minutos",
+            "time": 600,
+            "turns": ""
+        },
+        {
+            "id": 56,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Dar un masaje de pies",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 57,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Diga el alfabeto al rev\u00e9s en 15 segundos",
+            "time": 15,
+            "turns": ""
+        },
+        {
+            "id": 58,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Ve a la casa del vecino y pide un pl\u00e1tano",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 59,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Ac\u00e9rcate a alguien al azar y pide un abrazo",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 60,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Configure el idioma de su tel\u00e9fono celular en chino durante los pr\u00f3ximos 10 minutos",
+            "time": 600,
+            "turns": ""
+        },
+        {
+            "id": 61,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Act\u00faa como tu personaje favorito de Disney durante el resto del juego.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 62,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Cante \u201cTwinkle Twinkle; Little Star \u201dmientras golpea el boxeo",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 63,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Regala un concierto con tu air guitar",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 64,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Haz un poema usando las palabras naranja y alce.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 65,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Desabroche su propio cintur\u00f3n con los codos",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 66,
+            "type": "Dare",
+            "level": 0,
+            "summary": "Cepille los dientes de otra persona",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 67,
+            "type": "Dare",
+            "level": 3,
+            "summary": "Twerk por un minuto",
+            "time": 60,
+            "turns": ""
+        },
+        {
+            "id": 68,
+            "type": "Dare",
+            "level": 3,
+            "summary": "Danza del vientre con una canci\u00f3n country",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 69,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Inventa una canci\u00f3n country de la parte superior de tu cabeza",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 70,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Ponte a cuatro patas y act\u00faa como un perro hasta tu pr\u00f3ximo turno",
+            "time": "",
+            "turns": 1
+        },
+        {
+            "id": 71,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Invente un rap corto sobre otro jugador",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 72,
+            "type": "Dare",
+            "level": 3,
+            "summary": "Act\u00faa como Romeo de \"Romeo y Julieta\" (elige qui\u00e9n quieres que sea Julieta)",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 73,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Haz una impresi\u00f3n de alguien hasta que otro jugador pueda adivinar qui\u00e9n eres",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 74,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Di \"ya me escuchaste\" despu\u00e9s de todo lo que dices durante los pr\u00f3ximos 5 minutos",
+            "time": 300,
+            "turns": ""
+        },
+        {
+            "id": 75,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Act\u00fae como si no entendiera su propio idioma hasta el pr\u00f3ximo turno (invente su propio idioma)",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 76,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Usa las letras del nombre de otro jugador para describirlos (ej. SAM: S - Silly",
+            "time": "A \u2013 Attractive",
+            "turns": "M \u2013 Merry)"
+        },
+        {
+            "id": 77,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Utilice \u00fanicamente lenguaje de se\u00f1as para la siguiente ronda",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 78,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Haz flexiones hasta que sea tu turno nuevamente",
+            "time": "",
+            "turns": 1
+        },
+        {
+            "id": 79,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Use un bigote en los dedos durante los pr\u00f3ximos 5 minutos",
+            "time": 300,
+            "turns": ""
+        },
+        {
+            "id": 80,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Solo usa tus codos y rodillas para hacer un s\u00e1ndwich",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 81,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Escribe una publicaci\u00f3n en Facebook (u otras redes sociales) usando solo los dedos de tus pies",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 82,
+            "type": "Dare",
+            "level": 2,
+            "summary": "T\u00f3mate una selfie con el ba\u00f1o y publ\u00edcala en l\u00ednea",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 83,
+            "type": "Dare",
+            "level": 1,
+            "summary": "P\u00edntate las u\u00f1as de los pies solo con los dientes",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 85,
+            "type": "Dare",
+            "level": 3,
+            "summary": "Coge un cubo de hielo y p\u00e1salo por el cuerpo de tu pareja hasta que se derrita.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 86,
+            "type": "Dare",
+            "level": 3,
+            "summary": "Dale un masaje en la espalda a la persona a tu derecha",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 127,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Haz el baile m\u00e1s tonto que puedas imaginar",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 128,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Act\u00faa como una anciana o un anciano",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 129,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Gire alrededor de 10 veces; cuando termines, intenta caminar en l\u00ednea recta",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 130,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Haz 10 saltos de tijera; y luego haz 10 flexiones",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 131,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Diga el alfabeto al rev\u00e9s en 30 segundos",
+            "time": 30,
+            "turns": ""
+        },
+        {
+            "id": 132,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Pasa un minuto entero sin parpadear",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 133,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Aguante la respiraci\u00f3n durante 10 segundos.",
+            "time": 10,
+            "turns": ""
+        },
+        {
+            "id": 134,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Act\u00faa como un pollo durante 1 minuto",
+            "time": 60,
+            "turns": ""
+        },
+        {
+            "id": 135,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Salta hacia arriba y hacia abajo hasta que sea tu turno de nuevo",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 136,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Cierra los ojos hasta que sea tu turno de nuevo",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 137,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Canta \"Itsy Bitsy Spider\" mientras est\u00e1s de cabeza",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 138,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Haz 5 volteretas seguidas",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 139,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Hacer un backbend",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 140,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Act\u00faa como tu persona favorita de Disney",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 141,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Diga \"banana\" despu\u00e9s de todo lo que diga hasta que sea su turno nuevamente",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 142,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Inventa un poema sobre el color azul",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 143,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Act\u00faa como un mono hasta que sea tu turno de nuevo",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 144,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Hacer una parada de manos",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 145,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Cruza tus ojos",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 146,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Lame tu nariz",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 147,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Come una cucharada de mantequilla de man\u00ed",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 148,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Hazle cosquillas a la persona a tu derecha",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 149,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Ata los cordones de tus zapatos e intenta caminar hacia la puerta y regresar",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 150,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Act\u00faa como un beb\u00e9 hasta tu pr\u00f3ximo turno",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 151,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Mu\u00e9vete como una vaca tan fuerte como puedas",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 152,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Baila el rociador",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 153,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Act\u00faa como tu superh\u00e9roe favorito",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 154,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Pasar 10 minutos sin decir las palabras: pero; a; la; o",
+            "time": 600,
+            "turns": ""
+        },
+        {
+            "id": 155,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Act\u00faa como una estatua hasta que sea tu turno nuevamente (sin hablar ni moverte)",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 156,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Miau como gato",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 157,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Pon tu pierna detr\u00e1s de tu cabeza",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 158,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Canta tu cancion favorita",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 159,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Pon una cara de pez",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 160,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Imagina que eres un avi\u00f3n durante 2 minutos",
+            "time": 120,
+            "turns": ""
+        },
+        {
+            "id": 161,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Baila como una bailarina",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 162,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Di el alfabeto en un idioma diferente",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 163,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Haz tu mejor baile hip hop",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 164,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Intenta lamer tu codo",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 165,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Pinta tus u\u00f1as con un cray\u00f3n",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 166,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Si\u00e9ntese boca abajo en una silla hasta su pr\u00f3ximo turno",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 195,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Toma un trago",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 196,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Dispara a la persona a tu derecha",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 197,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Corre por la calle en solo tu ropa interior",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 198,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Abofetea a la persona a tu izquierda en el trasero",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 199,
+            "type": "Dare",
+            "level": 0,
+            "summary": "Come un huevo crudo",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 200,
+            "type": "Dare",
+            "level": 0,
+            "summary": "Come un paquete seco de fideos",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 201,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Use hilo dental en los dientes de la persona a su izquierda",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 202,
+            "type": "Dare",
+            "level": 1,
+            "summary": "D\u00fachate completamente vestido",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 203,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Habla como Tony Montana durante los pr\u00f3ximos 10 minutos",
+            "time": 600,
+            "turns": ""
+        },
+        {
+            "id": 204,
+            "type": "Dare",
+            "level": 0,
+            "summary": "Comer papel higi\u00e9nico",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 205,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Esnifar una l\u00ednea de az\u00facar",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 206,
+            "type": "Dare",
+            "level": 0,
+            "summary": "Come un poco de jab\u00f3n",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 207,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Twerk en una parada de manos",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 208,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Deja que alguien te corte el pelo con su mano d\u00e9bil",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 209,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Haz una canci\u00f3n de rap de estilo libre sobre cada persona del grupo.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 210,
+            "type": "Dare",
+            "level": 0,
+            "summary": "Lamer el pie de alguien",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 211,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Llame a alguien al azar; y hablarles raro",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 212,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Env\u00ede un correo electr\u00f3nico a uno de sus profesores y d\u00edgale que lo ama",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 213,
+            "type": "Dare",
+            "level": 0,
+            "summary": "Lamer la pared",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 214,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Tome dos tragos de un licor oscuro y uno claro (4 tragos en total)",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 215,
+            "type": "Dare",
+            "level": 0,
+            "summary": "Deja que alguien lama un c\u00edrculo completo alrededor de tu cara",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 216,
+            "type": "Dare",
+            "level": 2,
+            "summary": "P\u00e1rese en la esquina en \"tiempo muerto\"; no digas una palabra durante las pr\u00f3ximas 3 rondas",
+            "time": "",
+            "turns": 3
+        },
+        {
+            "id": 217,
+            "type": "Dare",
+            "level": 3,
+            "summary": "Besarse con el novio o la novia de alguien",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 218,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Bebe una cerveza entera en 15 segundos",
+            "time": 15,
+            "turns": ""
+        },
+        {
+            "id": 219,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Si\u00e9ntese en el bote de basura para la siguiente ronda",
+            "time": "",
+            "turns": 1
+        },
+        {
+            "id": 220,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Bebe una cerveza entera; luego girar durante 15 segundos; despu\u00e9s de eso intenta correr hacia la puerta",
+            "time": 15,
+            "turns": ""
+        },
+        {
+            "id": 221,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Toma 2 tiros y haz una voltereta",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 222,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Llame a sus padres y d\u00edgales que est\u00e1 abandonando la escuela",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 253,
+            "type": "Dare",
+            "level": 0,
+            "summary": "Ponga mantequilla de man\u00ed en su nariz; y tratar de lamerlo",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 254,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Hacer una parada de cabeza",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 255,
+            "type": "Dare",
+            "level": 2,
+            "summary": "P\u00e1rese sobre una pierna durante las siguientes tres rondas",
+            "time": "",
+            "turns": 3
+        },
+        {
+            "id": 256,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Cruza los ojos y camina hacia el patio delantero y hacia atr\u00e1s.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 257,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Haga una impresi\u00f3n de su pariente favorito; no te detengas hasta que todos puedan adivinar qui\u00e9n eres",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 258,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Act\u00faa como la mascota de la familia hasta que sea tu turno nuevamente",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 259,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Para las pr\u00f3ximas 2 rondas; debes hacer lo que diga la persona a tu derecha",
+            "time": "",
+            "turns": 2
+        },
+        {
+            "id": 260,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Quack y camina como un pato",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 261,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Haz tu mejor impresi\u00f3n de Mickey Mouse",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 262,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Gira durante 10 segundos y agota el buz\u00f3n y vuelve",
+            "time": 10,
+            "turns": ""
+        },
+        {
+            "id": 263,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Balancea una cuchara en tu nariz hasta la siguiente ronda.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 264,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Haz tu mejor risa malvada; tan fuerte como puedas",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 265,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Pon una cara graciosa; toma una selfie; y publ\u00edcalo en Facebook",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 266,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Llama a una persona al azar y c\u00e1ntale feliz cumplea\u00f1os",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 267,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Con los ojos vendados; ve a la cocina y haz un s\u00e1ndwich",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 268,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Dale a la persona de tu izquierda un willy h\u00famedo",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 269,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Mueve tus orejas sin usar tus manos",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 270,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Habla como un beb\u00e9 durante las pr\u00f3ximas 3 rondas",
+            "time": "",
+            "turns": 3
+        },
+        {
+            "id": 271,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Gr\u00e1bate a ti mismo haciendo el baile m\u00e1s tonto que puedas hacer; y publ\u00edcalo en Facebook",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 272,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Cuente un chiste divertido toc toc; todos deben re\u00edr",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 273,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Aguante la respiraci\u00f3n durante 15 segundos.",
+            "time": 15,
+            "turns": ""
+        },
+        {
+            "id": 274,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Haz el pino mientras cantas tu canci\u00f3n infantil favorita",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 275,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Intenta girar sobre tu cabeza como una bailarina de break",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 276,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Equilibre el objeto a su izquierda en su cabeza durante las pr\u00f3ximas tres rondas",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 277,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Haz tu mejor baile de hula",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 278,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Tapdance en el sof\u00e1",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 279,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Ponte de pie y gira durante las pr\u00f3ximas dos rondas",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 280,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Haz 150 saltos",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 281,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Usa a la persona de tu est\u00f3mago derecho como tambor y haz una danza tribal",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 282,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Ponte de pie como un flamenco durante las pr\u00f3ximas cuatro rondas",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 318,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Con p\u00f3lvora en la mano; golpea a la persona que te queda en la mejilla",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 319,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Haz una parada de manos en la pared durante las pr\u00f3ximas dos rondas",
+            "time": "",
+            "turns": 2
+        },
+        {
+            "id": 320,
+            "type": "Dare",
+            "level": 3,
+            "summary": "Besa una almohada hasta que sea tu turno de nuevo",
+            "time": "",
+            "turns": 1
+        },
+        {
+            "id": 321,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Haz tu mejor baile de pollo afuera en el c\u00e9sped",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 322,
+            "type": "Dare",
+            "level": 0,
+            "summary": "Come tres cucharadas de mostaza",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 323,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Usando solo tus codos; crea un estado de Facebook y publ\u00edcalo",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 324,
+            "type": "Dare",
+            "level": 3,
+            "summary": "Env\u00edale un mensaje de texto a la persona que te gusta y dile cu\u00e1nto te gusta",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 325,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Env\u00ede un correo electr\u00f3nico a uno de sus profesores; cont\u00e1ndoles c\u00f3mo va tu d\u00eda",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 326,
+            "type": "Dare",
+            "level": 0,
+            "summary": "Huele la pimienta y trata de no estornudar",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 327,
+            "type": "Dare",
+            "level": 3,
+            "summary": "Invita a la persona que te gusta a una cita",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 328,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Con los ojos vendados; Gire 10 veces y camine por la calle y regrese",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 329,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Tome una selfie con una escoba y publ\u00edquela en todas sus redes sociales",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 330,
+            "type": "Dare",
+            "level": 0,
+            "summary": "Pon los calcetines de la persona a tu derecha en tu boca",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 331,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Haz una impresi\u00f3n de tu profesor m\u00e1s molesto",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 332,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Llama a un restaurante local y pide cada cosa que hay en el men\u00fa",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 333,
+            "type": "Dare",
+            "level": 0,
+            "summary": "Come media barra de mantequilla",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 334,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Intenta hacerte cosquillas",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 335,
+            "type": "Dare",
+            "level": 0,
+            "summary": "Ve a enjuagarte la boca con jab\u00f3n o un minuto; luego sople burbujas de jab\u00f3n por la boca hasta que se acabe el jab\u00f3n",
+            "time": 60,
+            "turns": ""
+        },
+        {
+            "id": 336,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Haz una bala de ca\u00f1\u00f3n en el sof\u00e1",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 337,
+            "type": "Dare",
+            "level": 0,
+            "summary": "Come tanta salsa picante como puedas",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 338,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Dale a la persona de tu izquierda un beso en la frente",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 339,
+            "type": "Dare",
+            "level": 3,
+            "summary": "Comparte una camiseta con la persona a tu derecha durante las pr\u00f3ximas 3 rondas",
+            "time": "",
+            "turns": 3
+        },
+        {
+            "id": 340,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Sost\u00e9n tu zapato hasta la nariz hasta que sea tu turno nuevamente",
+            "time": "",
+            "turns": 1
+        },
+        {
+            "id": 341,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Sal y canta tu himno nacional tan alto como puedas",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 342,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Doblarte en un pretzel",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 343,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Corre en el lugar o las pr\u00f3ximas tres rondas",
+            "time": "",
+            "turns": 3
+        },
+        {
+            "id": 344,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Llamar y gritar a uno de sus padres y luego decirles que est\u00e1n castigados durante una semana.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 345,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Tome una selfie con el dedo en la nariz y publ\u00edquela en todas sus redes sociales",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 346,
+            "type": "Dare",
+            "level": 3,
+            "summary": "Haz tu mejor danza del vientre",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 347,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Camine con las manos de un lado a otro de la habitaci\u00f3n",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 348,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Invente una canci\u00f3n de tres minutos sobre lo primero que se le ocurra",
+            "time": 180,
+            "turns": ""
+        },
+        {
+            "id": 349,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Act\u00faa como un cerdo hasta que sea tu turno de nuevo",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 350,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Maquillarse sin espejo",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 399,
+            "type": "Dare",
+            "level": 0,
+            "summary": "Bebe un brebaje misterioso elaborado por el resto del grupo. Aseg\u00farese de que no haya nada da\u00f1ino o peligroso en la mezcla y establezca un l\u00edmite razonable de sorbos que la persona debe tomar para completar el desaf\u00edo.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 400,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Come un bocado de galletas y trata de silbar.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 401,
+            "type": "Dare",
+            "level": 0,
+            "summary": "Rompe un huevo en tu cabeza.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 402,
+            "type": "Dare",
+            "level": 0,
+            "summary": "Combine dos alimentos que nunca deben ir juntos; como encurtidos y mantequilla de man\u00ed o pur\u00e9 de manzana y aceitunas; y come un bocado enorme.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 403,
+            "type": "Dare",
+            "level": 0,
+            "summary": "P\u00e1rese al lado del refrigerador (o paquete de comida si est\u00e1 acampando); cierra tus ojos; y apuntar aleatoriamente a algo dentro. Mantenga los ojos cerrados mientras alguien del grupo lo ayuda a comer algo de la comida que eligi\u00f3.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 404,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Simule ser un camarero o mesera y tome los pedidos de bocadillos de todos en el grupo. Tr\u00e1eles la comida que pidieron y luego vuelve a comprobar si les gusta.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 405,
+            "type": "Dare",
+            "level": 0,
+            "summary": "Come un bocadillo sin usar las manos.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 406,
+            "type": "Dare",
+            "level": 3,
+            "summary": "Cambie las camisetas con la persona que est\u00e1 a su lado para la siguiente ronda de preguntas.",
+            "time": "",
+            "turns": 1
+        },
+        {
+            "id": 407,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Use un sombrero divertido en la cabeza para las pr\u00f3ximas tres rondas de preguntas.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 408,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Ponte los pantalones al rev\u00e9s durante el resto del juego.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 409,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Qu\u00edtese los calcetines y \u00faselos en las manos durante el resto de la noche.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 410,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Haz un tocado con papel higi\u00e9nico y posa para las fotos.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 411,
+            "type": "Dare",
+            "level": 3,
+            "summary": "Cambie de ropa con alguien del sexo opuesto. Cambio en privado; pero usa la ropa para las pr\u00f3ximas cuatro rondas.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 412,
+            "type": "Dare",
+            "level": 1,
+            "summary": "Consigue una bolsa de basura grande y abre la parte inferior. P\u00f3ntelo como una falda y ata los lazos alrededor de tu cintura. Act\u00faa como si estuvieras modelando alta costura en la pasarela.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 413,
+            "type": "Dare",
+            "level": 2,
+            "summary": "T\u00f3mate 10 minutos para crear un atuendo que tenga todos los colores del arco\u00edris. Pide prestado cosas a tus amigos cuando lo necesites.",
+            "time": 600,
+            "turns": ""
+        },
+        {
+            "id": 414,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Organiza una fiesta de t\u00e9 entre cualquiera de los peluches de la casa. Invite a las chicas de su grupo a unirse.",
+            "time": 180,
+            "turns": ""
+        },
+        {
+            "id": 415,
+            "type": "Dare",
+            "level": 2,
+            "summary": "D\u00edgales que tienen que resolver un acertijo de l\u00f3gica y que si no lo terminan en 3 minutos, \u00a1les dar\u00e1 un desaf\u00edo vergonzoso!",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 416,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Diga el alfabeto al rev\u00e9s con acento brit\u00e1nico.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 417,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Corre por la habitaci\u00f3n imitando a un mono.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 418,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Dale a alguien del grupo un paseo en caballito por la habitaci\u00f3n.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 419,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Invente un rap sobre la persona a su derecha.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 420,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Si hay una mascota en el evento; trate de sostener a la mascota durante el resto de la noche.",
+            "time": "",
+            "turns": ""
+        },
+        {
+            "id": 421,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Imagina que est\u00e1s nadando bajo el agua durante las pr\u00f3ximas tres rondas de preguntas. No olvide hacer ruidos de burbujeo y salir a tomar aire de vez en cuando.",
+            "time": "",
+            "turns": 3
+        },
+        {
+            "id": 422,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Todo lo que digas durante el resto del juego tiene que rimar.",
+            "time": "",
+            "turns": 40
+        },
+        {
+            "id": 423,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Repite todo lo que dice otro jugador durante las siguientes tres rondas del juego.",
+            "time": "",
+            "turns": 3
+        },
+        {
+            "id": 424,
+            "type": "Dare",
+            "level": 2,
+            "summary": "Canta en lugar de hablar durante las pr\u00f3ximas dos rondas del juego.",
+            "time": "",
+            "turns": 2
+        }
+    ]
+}

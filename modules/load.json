@@ -1,0 +1,10 @@
+{
+    "miid": "\ndef miid(*p):\n return rut(p[2], p[2].author.userId)",
+    "ip": "\ndef ip(*p):\n from os import popen\n s = popen('''ip a show wlp2s0 | grep 'inet 192' ''').read()\n return rut(p[2], s)",
+    "lscmd": "\ndef lscmd(*p):\n s = ''\n for i in CMDS:\n  s += i + '\\n'\n return rut(p[2], s)",
+    "zack": "\ndef zack(*a):\n return rut(a[2], 'Zack es Dark')",
+    "platform": "\ndef platform(*p):\n from sys import platform\n if platform != \"linux\":\n  return rut(p[2], platform)\n F = open(\"/etc/os-release\")\n s = F.readline().strip().split(\"=\")[1]\n s = s.replace(\"\\\"\", \"\")\n return rut(p[2], f\"Distro: {s}\\nKernel: {platform}\")",
+    "insulto": "\ndef insulto(*p):\n return rut(p[2], random.choice([\"Pelotudo\", \"Boludo\", \"Gilipollas\", \"Gil\", \"Forro\", \"Tonto\"]))",
+    "help": "\ndef help(*p):\n return rut(p[2], 'No help available')",
+    "ping": "\ndef ping(*p):\n return rut(p[2], 'Tux report\u00e1ndose')"
+}
